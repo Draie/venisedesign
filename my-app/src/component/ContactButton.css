@@ -1,0 +1,15 @@
+.ContactButtonStyle{
+    color: #7C92FD;
+    font-weight: bolder;
+    border-color: #7C92FD;
+    border: 2px solid;
+    border-radius: 20px;
+    font-size: 15px;
+    max-width: 188px;
+    max-height: 36px;
+    padding: 5px;
+    cursor: pointer;
+
+  
+   
+}

@@ -1,0 +1,20 @@
+
+article{
+    padding: 0px;
+    display: grid;
+    grid-template-rows: 97px 1fr;
+    grid-column: 1fr 1fr;
+    margin: 0px;
+    background-color: white;
+   justify-items: center;
+   
+}
+
+
+h4{
+    font-size: 20px;
+    color: #7C92FD;
+    text-align: center;
+    max-height: 97px;
+
+}

@@ -1,0 +1,13 @@
+/*div{
+    background-color: white;
+    font-size: 20px;
+    color: #98A8F8;
+   
+}
+
+*/
+div.ServiceArticleContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-self: center;
+}

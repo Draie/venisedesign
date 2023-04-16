@@ -1,0 +1,35 @@
+.ServiceCard{
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 10px;
+    background-color: #98A8F8;
+    max-width: 130px;
+    min-width: 100px;
+    max-height: 157px;
+    min-height: 140px;
+    font-size: 10px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+   cursor: pointer;
+}
+p{
+   
+    max-height: 46px;
+    min-height: max-content;
+    padding-left: 5px;
+    color: white;
+    font-weight: lighter;
+}
+
+
+.TitleCard{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    max-width: 130px;
+    color: white;
+    
+
+}
