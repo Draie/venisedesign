@@ -1,15 +1,51 @@
+
 h1{
     font-size: 36px;
     color: white;
     font-weight: 700;
     text-align: center;
     font-family: 'Nunito', sans-serif;
+    flex-direction: row;
 }
 h3{
-    font-size: 22px;
-    color: white;
-    font-weight: 700;
-    text-align: center;
-    font-family: 'Nunito', sans-serif;
+    visibility: hidden;
+    height: 0;
+    width: 0;
+}
+
+.Herobanner{
+    display: flex;
+    flex-direction: row;
+    max-height: 80px;
+}
+
+@media screen and (max-width: 470px)  {
+
+  .Herobanner{
+    display: flex;
+    flex-direction: column;
+    padding-top: 4rem;
+    height:5rem;
+    
+  }
+    h1{
+        font-size: 36px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        font-family: 'Nunito', sans-serif;
+    }
+    h3{
+        visibility: visible;
+        min-height: 200px;
+        min-width: 200px;
+        font-size: 22px;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        font-family: 'Nunito', sans-serif;
+    }
+ 
+    
 }
 

@@ -1,5 +1,5 @@
 import  './ServiceCard.css';
-
+import React from 'react';
 function ServiceCard({TitleCard,DescriptionCard}){
     return (
         <div className='ServiceCard '>

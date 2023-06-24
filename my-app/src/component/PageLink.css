@@ -1,0 +1,9 @@
+.PageLinkStyle p{
+   
+    font-size: 10px;
+    font-weight: 100;
+}
+.PageLinkStyle a {
+    color: white;
+    text-decoration: none;
+}

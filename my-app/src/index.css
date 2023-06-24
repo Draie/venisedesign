@@ -3,7 +3,10 @@ body {
   font-family:Nunito, sans-serif;
   font-weight:bold;
  background-color: #98A8F8;
+ min-width: 300px;
 }
 h1{
   font-weight: 700 ;
 }
+
+

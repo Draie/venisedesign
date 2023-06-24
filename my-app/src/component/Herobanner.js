@@ -1,5 +1,6 @@
 
 import './Herobanner.css';
+import React from 'react';
 
 function Herobanner() {
   return (

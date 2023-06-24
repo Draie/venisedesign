@@ -2,6 +2,7 @@
 /*import './src/index.css';*/
 import ServiceCard from './ServiceCard';
 import'./Service.css';
+import React from 'react';
 
 function Service() {
   return (
